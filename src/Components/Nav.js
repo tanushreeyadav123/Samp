@@ -13,9 +13,9 @@ export default function Nav() {
       <span><Link to="/"><img src={image2} alt="not found"/></Link></span>
       <span id='heading'><p>Tanushree is brave</p></span>
       <ul>
-       <Link to="/"><li>HOME</li></Link>
-       <Link to="/men"><li>ABOUT</li></Link>
-       <Link to='/women'><li>CONTACT</li></Link>
+       <Link to="/"><li>Cat</li></Link>
+       <Link to="/men"><li>gai</li></Link>
+       <Link to='/women'><li>peacock</li></Link>
        {/* <Link to='/kids'><li>DETAILS</li></Link> */}
        <Link to='/cart'><li><i class="fa-solid fa-cart-shopping"></i></li> <span id='ci'>{ct.length}</span> </Link>
       </ul>
