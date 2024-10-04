@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Samp/static/css/main.817de1cc.css",
+    "main.js": "/Samp/static/js/main.a2e04a30.js",
+    "static/js/453.f262bf0d.chunk.js": "/Samp/static/js/453.f262bf0d.chunk.js",
+    "static/media/Fashion Style Banner.png": "/Samp/static/media/Fashion Style Banner.550e6663912237eb3b76.png",
+    "static/media/Gray Minimalist New Collection Banner (1).png": "/Samp/static/media/Gray Minimalist New Collection Banner (1).dc01e18ef85c92d16b2a.png",
+    "static/media/download.png": "/Samp/static/media/download.cd7c6b34c32e89e77088.png",
+    "static/media/model1.jpeg": "/Samp/static/media/model1.18fc2b8c41038babe3c5.jpeg",
+    "static/media/music.png": "/Samp/static/media/music.df67bf369d5bb4342628.png",
+    "static/media/Boho Vibes _ Collection Femme (1).png": "/Samp/static/media/Boho Vibes _ Collection Femme (1).4435bf8b5d8b187a75bf.png",
+    "static/media/model2.png": "/Samp/static/media/model2.b8b133ce716f8fd00f10.png",
+    "static/media/tag.png": "/Samp/static/media/tag.b71d606f261076cdafe5.png",
+    "static/media/logo.svg": "/Samp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Samp/index.html",
+    "main.817de1cc.css.map": "/Samp/static/css/main.817de1cc.css.map",
+    "main.a2e04a30.js.map": "/Samp/static/js/main.a2e04a30.js.map",
+    "453.f262bf0d.chunk.js.map": "/Samp/static/js/453.f262bf0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.817de1cc.css",
+    "static/js/main.a2e04a30.js"
+  ]
+}
