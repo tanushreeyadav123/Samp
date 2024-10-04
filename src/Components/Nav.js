@@ -11,7 +11,7 @@ export default function Nav() {
     <div>
      <div className="nav">
       <span><Link to="/"><img src={image2} alt="not found"/></Link></span>
-      <span id='heading'><p>Tanushree</p></span>
+      <span id='heading'><p>Tanushree is brave</p></span>
       <ul>
        <Link to="/"><li>HOME</li></Link>
        <Link to="/men"><li>ABOUT</li></Link>
